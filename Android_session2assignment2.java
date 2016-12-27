@@ -6,12 +6,11 @@ public class Android_session2assignment2 {
 		{
 			for(int j=0;j<5;j++)
 				if(i==j||i+j==4)
-					System.out.println("*");
+					System.out.print("*");
 				else
-					System.out.println(" ");
-			System.out.println("\n");
+					System.out.print(" ");
+            System.out.println("\n");
 		}
-
 	}
 
 }
